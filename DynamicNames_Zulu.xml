@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Zulus -->
+<Civ4GameText xmlns="http://www.firaxis.com">
+	<TEXT>
+		<Tag>TXT_KEY_CIV_ZULU_DESC</Tag>
+		<English>The Zulus</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_Zulus_PEOPLES</Tag>
+		<English>Zulus Peoples</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_Zulus_ADJECTIVE</Tag>
+		<English>Zulus</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_Zulus_DEFAULT</Tag>
+		<English>Zulu Sultanate</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_CIV_Zulus_SHORT_DESC</Tag>
+		<English>Zulus</English>
+	</TEXT>
+</Civ4GameText>
